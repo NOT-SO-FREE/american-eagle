@@ -39,7 +39,7 @@ const HeroSection = () => {
         <Sparkles className="w-2.5 h-2.5 text-primary inline-block mr-1 animate-pulse" />
         Here's how to claim your{' '}
         <span className="font-bold text-primary !w-[148px] !h-[17px]">
-          $750 Gift Card
+          $500 Gift Card
         </span>
         <Sparkles className="w-2.5 h-2.5 text-primary inline-block ml-1 animate-pulse" />
       </p>
