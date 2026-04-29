@@ -5,21 +5,21 @@ const SocialFooter = () => {
     <>
       <div className="flex justify-center gap-1.5 mb-2">
         <a
-          href="https://www.linkedin.com/company/aerie-aeoinc"
+          href="https://www.linkedin.com/company/american-eagle-outfitters"
           aria-label="LinkedIn"
           className="w-7 h-7 hover:bg-primary/90 rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 hover:shadow-lg shadow-xl bg-primary"
         >
           <Linkedin className="w-3 h-3 text-white" />
         </a>
         <a
-          href="https://www.facebook.com/Aerie"
+          href="https://www.facebook.com/americaneagle/"
           aria-label="Facebook"
           className="w-7 h-7 hover:bg-primary/90 rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 hover:shadow-lg shadow-xl bg-primary"
         >
           <Facebook className="w-3 h-3 text-white" />
         </a>
         <a
-          href="https://www.instagram.com/aerie/"
+          href="https://www.instagram.com/americaneagle/"
           aria-label="Instagram"
           className="w-7 h-7 hover:bg-primary/90 rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 hover:shadow-lg shadow-xl bg-primary"
         >
